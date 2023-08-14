@@ -1,0 +1,33 @@
+_repo: Sydanmailta-b-Novelleja-ja-tunnelmia_71242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Korhonen, Veikko
+    alias: Korhonen, Veikko Matias
+    birthdate: 1888
+    deathdate: 1942
+    gutenberg_agent_id: '56035'
+    url: http://www.gutenberg.org/2009/agents/56035
+    wikipedia: https://fi.wikipedia.org/wiki/Veikko_Korhonen
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71242'
+language: fi
+pgterms:marc905: 20230511125112korhonen
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish literature'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Rikos -- Kauppatalo -- Huutokauppa -- Syvillä juurilla -- Hiljainen
+  talo -- Aamutunnelma -- Verkkomökin salaisuus -- Ikuinen rauha -- Pakoon -- Armoa
+  anomassa -- Kosto -- Öinen taistelu -- Sudet -- Kehrääjän tähdet.
+title: 'Sydänmailta : $b Novelleja ja tunnelmia'
+url: http://www.gutenberg.org/ebooks/71242
